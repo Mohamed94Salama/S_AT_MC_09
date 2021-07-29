@@ -2,7 +2,7 @@
 * Task		 : UART Driver
 * File Name	 : UART.h
 * Description: header file for UART driver
-* Author	 : Kariman
+* Author	 : Mohamed Ehab
 * Date		 : Jul 13, 2021
 ******************************************************************************/
 
