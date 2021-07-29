@@ -2,7 +2,7 @@
  * UART_Cfg.h
  *
  * Created: 7/14/2021 5:05:03 AM
- *  Author: Amrth
+ *  Author: Mohamed Ehab
  */ 
 
 
