@@ -2,7 +2,7 @@
  * UART.c
  *
  * Created: 7/14/2021 7:30:59 PM
- *  Author: DELLL
+ *  Author: Mohamed Ehab
  */ 
 
 #include "UART.h"
